@@ -9,3 +9,7 @@ Tried some markdown header syntax
 ```javascript
 const testData = "This is a sample"
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
