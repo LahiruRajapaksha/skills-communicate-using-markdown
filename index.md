@@ -3,3 +3,5 @@
 ### This is H3
 
 Tried some markdown header syntax
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
